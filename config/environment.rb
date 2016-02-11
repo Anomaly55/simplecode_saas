@@ -13,3 +13,4 @@ ActionMailer::Base.smtp_setting = {
     :domain => 'heroku.com',
     :enable_startstls_auto => true
 }
+}
